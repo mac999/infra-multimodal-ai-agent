@@ -6,5 +6,3 @@ vision for multimodal infra management
 nocode platform demo
 ![Image](https://github.com/mac999/infra-multimodal-ai-agent/blob/main/infra_view_map.gif)
 management system demo
-
-
